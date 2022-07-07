@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/u17rrJZKg6S8OBmKSxEWYU29+1QzK0NgaX3HThmAaEguLi1HWqfvuaQSXnWXQl1i0dAXr3jiv8adCkfRH1tg==",
+  "success": true,
+  "projectFilePath": "/Users/renanabenyehuda/Desktop/To do list/ToDo/ToDo.csproj",
+  "expectedPackageFiles": [
+    "/Users/renanabenyehuda/.nuget/packages/microsoft.data.sqlite/6.0.6/microsoft.data.sqlite.6.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/microsoft.data.sqlite.core/6.0.6/microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/renanabenyehuda/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
