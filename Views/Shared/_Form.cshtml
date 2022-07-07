@@ -1,0 +1,16 @@
+@model TodoViewModel
+
+<form asp-action="createTodo" id="form-action" method="post" role="form">
+    <div asp-validation-summary="All"></div>
+            <label id="enter_to_do" asp-for="Todo.Name">Enter To Do</label>
+            <input asp-for="Todo.Id" type="Hidden" />
+            <input asp-for="Todo.Name" />
+            <span asp-validation-for="Todo.Name"></span>
+            <input type="Submit" id="form-button" value="Add" />
+</form>
+
+<form asp-action="getRandom" id="form-action" method="post" role="form">
+    <div asp-validation-summary="All"></div>
+            <input type="Submit" id="form-button" class="random_text" value="Get a Random Item" />
+</form>
+
